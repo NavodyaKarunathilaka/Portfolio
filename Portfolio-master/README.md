@@ -1,41 +1,39 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  
+
+  🚀 Portfolio Website - v2.0
 </h2>
+
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Portfolio Demo" src="./Images/readme-img1.png" />
 </div>
 
 <br/>
 
+<p align="center">
+  A responsive multi-page developer portfolio showcasing my projects, skills, and experiences.
+</p>
 
+---
 
+## 🔨 Built With
 
+This project was built using these technologies:
 
+- ⚛️ **React.js**
+- 🔧 **Node.js** 
+- 🚀 **Express.js** –
+- 🎨 **CSS3** 
+- 💻 **VS Code**
+- 🌐 **Vercel** 
 
+---
 
-## Built With
+## ✨ Features
 
+- 📖 **Multi-Page Layout** – Seamless navigation between pages
+- 🎨 **Styled with React-Bootstrap and CSS** – Easily customizable components and colors
+- 📱 **Fully Responsive** – Looks great on desktop, tablet, and mobile
 
-
-This project was built using these technologies.
-
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
-
-## Features
-
-**📖 Multi-Page Layout**
-
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
-
-
+---
 
 ## 🛠 Installation and Setup Instructions
 
@@ -43,14 +41,8 @@ This project was built using these technologies.
 
 2. In the project directory, you can run: `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Runs the app in the development mode.  
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.  
 The page will reload if you make edits.
 
 
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
