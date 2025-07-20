@@ -1,5 +1,5 @@
 
-  🚀 Portfolio Website - v2.0
+  🚀 Portfolio Website
 </h2>
 
 <div align="center">
